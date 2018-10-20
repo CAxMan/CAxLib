@@ -1,0 +1,15 @@
+########################################
+########### StepConverters #############
+########################################
+
+This application allows the conversion of an annotated triangle mesh from the ZIP = OFF+ANN format defined in the CAxMan project to the standard STEP format, and viceversa.
+
+Dependences:
+
+- tinyxml2 (http://www.grinninglizard.com/tinyxml2/)
+
+- zlib (https://zlib.net/)
+
+- libzip (https://libzip.org/)
+
+- EXPRESS Data Manager (EDM). If you want an evaluation or commercial license, please contact Jotne EPM Technology (web-address https://jira.jotne.com/servicedesk/customer/portal/2, e-mail helpdesk@jotne.com)
