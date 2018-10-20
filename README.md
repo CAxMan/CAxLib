@@ -47,7 +47,9 @@ External dependencies
  Zlib Version 1.2.11 (https://zlib.net), TinyXML2 (http://www.grinninglizard.com/tinyxml2/)
  and LibZIP Version 1.4.0 (https://libzip.org). Additionally, the mesh2vtu tool
  depends from VTK (https://www.vtk.org), and the tetrahedralize tool depends on Tetgen
- (http://wias-berlin.de/software/tetgen/).
+ (http://wias-berlin.de/software/tetgen/). Also, the step_converters tool depends on the EXPRESS Data Manager (EDM). If you want 
+ an evaluation or commercial license, please contact Jotne EPM Technology (web-address https://jira.jotne.com/servicedesk/customer
+ /portal/2, e-mail helpdesk@jotne.com)
 
 ---------------------
 Copyright and License
